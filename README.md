@@ -8,9 +8,11 @@ The user can also search for any location using the search functionality.
 
 The UI is updated according to the weather (similar to Apple's Weather app)
 
+Built using [Open Weather API](https://openweathermap.org) and MVC design pattern.
+
 I am currently working on a SwiftUI version of this app to practice using MVVM design pattern.
 
-Built using [Open Weather API](https://openweathermap.org) and MVC design pattern.
+
 
 
 
